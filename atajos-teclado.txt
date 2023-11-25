@@ -1,0 +1,23 @@
+' Comillas Simples '     ALT + 39
+\ Backslash \            ALT + 92
+` Backtick `             ALT + 96
+
+¡ Signo de exclamación ¡ ALT + 173
+! Signo de exclamación ! ALT + 33
+
+$ Dolar $                ALT + 36
+| Paibs, Barra |         ALT + 124
+^ Acento circunflujo ^   ALT + 94
+
+[ Corchetes              ALT + 91
+] Corchetes              ALT + 93
+
+{ Llaves                 ALT + 123
+} Llaves                 ALT + 125
+
+~ virgulilla, onda       ALT + 126
+
+CTRL + } comentar y descomentar lineas en Visual Studio Code
+Control D modificar seleccionar varios en Visual Studio Code
+
+CTRL + C return en Terminal cuando sale    dquote>
